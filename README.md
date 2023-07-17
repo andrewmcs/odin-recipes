@@ -1,3 +1,3 @@
-# git_test
+# Odin Recipes
 
-Hello Odin!
+First project in working through the Odin Project
