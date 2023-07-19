@@ -1,0 +1,43 @@
+.recipe-description {
+    font-style: italic;
+}
+
+.recipe-choice-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color:lightgoldenrodyellow;
+
+}
+
+.recipe-choice-menu li a {
+    display: block;
+    color: black;
+    padding: 8px;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.recipe-choice-menu li a:hover {
+    background-color: lightblue;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+ol {
+    width: 50%;
+    list-style-type: lower-greek;
+    border: 2px dotted black;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+ol li {
+    padding: 5px;
+}
+
